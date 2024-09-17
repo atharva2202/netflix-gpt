@@ -2,7 +2,7 @@
 
 - Login / Signup
 
-  - Sign In / Sign Up Form
+  - Sign In / Sign Up Form (use formik library)
   - Redirect to browse page
 
 - Browse (after authentication)
